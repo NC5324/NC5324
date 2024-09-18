@@ -9,19 +9,11 @@
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=NC5324&theme=dark&background=1a2026&fire=fb8c00&hide_border=true&card_width=1024&disable_animations=true&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats) -->
 
-### Lorem ipsum 0
-[![My Skills](https://skillicons.dev/icons?i=angular,rxjs,js,ts,java,postgres,elasticsearch)](https://skillicons.dev)
-
-### Lorem ipsum 1
-[![My Skills](https://skillicons.dev/icons?i=postman,jenkins,maven,docker,git,gitlab,github)](https://skillicons.dev)
-
-### Lorem ipsum 2
-[![My Skills](https://skillicons.dev/icons?i=lit,html,css,scss,regex)](https://skillicons.dev)
-
-### Lorem ipsum 3
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,eclipse)](https://skillicons.dev)
-
-### Lorem ipsum 4
+### Lorem ipsum
+[![My Skills](https://skillicons.dev/icons?i=java,angular,rxjs,js,ts,postgres,elasticsearch)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=postman,jenkins,maven,docker,git,gitlab,github)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=lit,html,css,scss,regex)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,eclipse)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=xd,figma,webpack,npm,kubernetes,githubactions,bootstrap,bitbucket,azure)](https://skillicons.dev)
 
 <!--
