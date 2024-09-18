@@ -7,7 +7,7 @@
   Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=NC5324&theme=dark&background=1a2026&fire=fb8c00&hide_border=true&card_width=1024&disable_animations=true&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=NC5324&theme=dark&background=1a2026&fire=fb8c00&hide_border=true&card_width=1024&disable_animations=true&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats) -->
 
 ### Lorem ipsum 0
 [![My Skills](https://skillicons.dev/icons?i=angular,rxjs,js,ts,java,postgres,elasticsearch)](https://skillicons.dev)
