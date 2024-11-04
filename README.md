@@ -1,20 +1,17 @@
-## Test 👋
+## Hey there 👋
 
 <p align="justify">
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-  Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  I'm a passionate software developer with a problem-solver mindset, experienced mainly with Java & Angular thanks to my daily job 
+  but I also like to experiment with various different technologies to solve interesting problems.
 </p>
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=NC5324&theme=dark&background=1a2026&fire=fb8c00&hide_border=true&card_width=1024&disable_animations=true&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats) -->
 
-### Lorem ipsum
-[![My Skills](https://skillicons.dev/icons?i=java,angular,rxjs,js,ts,postgres,elasticsearch)](https://skillicons.dev)<br>
-[![My Skills](https://skillicons.dev/icons?i=postman,jenkins,maven,docker,git,gitlab,github)](https://skillicons.dev)<br>
-[![My Skills](https://skillicons.dev/icons?i=lit,html,css,scss,regex)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=java,spring,angular,rxjs,js,ts,postgres,elasticsearch)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=postman,jenkins,maven,docker,kubernetes,azure,git,gitlab,github,bitbucket)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,lit,html,css,scss,tailwind,regex)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=webpack,npm,githubactions,jenkins)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=vscode,idea,eclipse)](https://skillicons.dev)<br>
-[![My Skills](https://skillicons.dev/icons?i=xd,figma,webpack,npm,kubernetes,githubactions,bootstrap,bitbucket,azure)](https://skillicons.dev)
 
 <!--
 **NC5324/NC5324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
