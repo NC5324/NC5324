@@ -1,7 +1,5 @@
-## Hey there 👋
-
 <p align="justify">
-  I'm a passionate software developer with a problem-solver mindset, experienced mainly with Java & Angular thanks to my daily job 
+  Pssionate software developer with a problem-solver mindset, experienced mainly with Java & Angular thanks to my daily job 
   but I also like to experiment with various different technologies to solve interesting problems.
 </p>
 
