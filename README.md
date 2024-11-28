@@ -1,5 +1,5 @@
 <p align="justify">
-  Pssionate software developer with a problem-solver mindset, experienced mainly with Java & Angular thanks to my daily job 
+  Pssionate software developer with a problem-solveing mindset, experienced mainly with Java & Angular thanks to my daily job 
   but I also like to experiment with various different technologies to solve interesting problems.
 </p>
 
