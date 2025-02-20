@@ -1,7 +1,7 @@
-<p align="justify">
-  Passionate software developer with a problem-solveing mindset, experienced mainly with Java & Angular thanks to my daily job 
+<!-- <p align="justify">
+  Passionate software developer with a problem-solving mindset, experienced mainly with Java & Angular thanks to my daily job 
   but I also like to experiment with various different technologies to solve interesting problems.
-</p>
+</p> -->
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=NC5324&theme=dark&background=1a2026&fire=fb8c00&hide_border=true&card_width=1024&disable_animations=true&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats) -->
 
