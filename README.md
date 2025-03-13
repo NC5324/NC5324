@@ -5,7 +5,7 @@
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=NC5324&theme=dark&background=1a2026&fire=fb8c00&hide_border=true&card_width=1024&disable_animations=true&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats) -->
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,angular,rxjs,js,ts,postgres,elasticsearch)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=angular,rxjs,ngrx,nx,js,ts,postgres,elasticsearch,java)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=postman,jenkins,maven,docker,kubernetes,azure,git,gitlab,github,bitbucket)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,lit,html,css,scss,tailwind,regex)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=webpack,npm,githubactions,jenkins)](https://skillicons.dev)
